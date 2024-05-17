@@ -74,6 +74,9 @@ Tables:
 
 ## 5.1 Main screen
 
+
+_Picture 1: Main screen - User_
+
 ### 5.1.1 Elements at the very top
 
 The main screen consists of several elements. At the very top on the left 
