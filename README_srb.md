@@ -217,6 +217,8 @@ Na dnu je dugme za zatvaranje ovog ekrana.
 
 ### 5.3.3 Rezervacija
 
+Rezervacije traju sedam dana. Nakon tog perioda automatski se otkazuju.
+
 Prozor za rezervacije, osim što na vrhu ima logo i naslov, takođe ima 
 ispisano i ime člana.
 
@@ -378,6 +380,8 @@ koje su unesene, drugo je resetovanje svih vrednosti i izbora članskog
 broja, a treće je za zatvaranje prozora.
 
 ### 5.4.8 Iznajmljivanje
+
+Rok za vraćanje iznajmljene knjige je petnaest dana.
 
 Kada se izabere dugme za iznajmljivanje s glavnog ekrana, otvara se prozor 
 čije je zaglavlje malo drugačije od ostalih. Ovde pored imena stoji i 
