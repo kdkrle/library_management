@@ -259,6 +259,9 @@ At the bottom is the button to close this screen.
 
 _Picture 9: Reservation_
 
+Reservations last seven days. After that period they are automatically 
+cancelled.
+
 The reservation window, in addition to having the logo and title at the top, 
 also has the member's name written on it.
 
@@ -475,6 +478,8 @@ values and membership ID selections, and the third is to close the window.
 ![renting](https://github.com/kdkrle/library_management/assets/59825527/5a5fe8ac-8eca-4ec2-8d78-67ec1b54ba26)
 
 _Picture 21: Renting_
+
+The deadline for returning the rented book is fifteen days.
 
 When the rent button is selected from the main screen, a window opens with 
 a slightly different header than the others. Here, next to the name, there 
