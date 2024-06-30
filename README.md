@@ -15,6 +15,7 @@ The application was made in Python, with the help of the PostgreSQL
 database management system. The 'ttkbootstrap' library was used to create 
 the user interface.
 
+Tables made as an example are in the archive 'tables.zip'
 
 # 3. The README.md file contents
 #### 1. Project title
