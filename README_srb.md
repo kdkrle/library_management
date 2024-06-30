@@ -3,7 +3,7 @@
 
 # 2. Kratak opis projekta
 Projekat je urađen kao sastavni deo prakse kursa "Python Developer - 
-Advanced" u kompaniji **ITOiP** (IT Obuka i Praksa).
+Advanced" u kompaniji **ITOiP** (IT Obuka i Praksa - https://itoip.rs).
 
 "Upravljanje bibliotekom" je aplikacija i za korisnike i za bibliotekare. 
 Može da se koristi kako za uvid u razne informacije o biblioteci i 
