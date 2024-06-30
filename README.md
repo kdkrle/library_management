@@ -2,6 +2,10 @@
     LIBRARY MANAGEMENT
 
 # 2. Brief description of the project
+The project was done as an integral part of the practice of course "Python 
+Developer - Advanced" in the company **ITOiP** (IT Training and Practice - 
+https://itoip.rs).
+
 "Library Management" is an application for both users and librarians.
 It can be used to provide insight into various information about the 
 library and book rentals, as well as for jobs that are necessary for
