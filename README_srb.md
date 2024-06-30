@@ -14,6 +14,7 @@ Aplikacija je urađena u Pythonu, uz pomoć PostgreSQL sistema za upravljanje
 bazama podataka. Za kreiranje korisničkog interfejsa upotrebljena je 
 biblioteka 'ttkbootstrap'.
 
+Tabele koje su urađene kao primer nalaze se u arhivi 'tables.zip'
 
 # 3. Sadržaj README.md fajla
 #### 1. Naslov projekta
